@@ -6,3 +6,7 @@ body {
 img.logotop {
   height: 30px;
 } 
+
+div.infos {
+  background: white;
+} 
