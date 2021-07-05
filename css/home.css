@@ -1,11 +1,8 @@
 body {
   text-align: center;
+  background: grey;
 } 
 
 img.logotop {
   height: 30px;
-} 
-
-div.topdiv {
-  background: repeat url("../images/fondHcaptcha.jpeg");
 } 
