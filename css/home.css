@@ -1,5 +1,7 @@
-img.logotop {
+body {
   text-align: center;
+} 
+
+img.logotop {
   height: 50px;
-  left: 50%;
 } 
